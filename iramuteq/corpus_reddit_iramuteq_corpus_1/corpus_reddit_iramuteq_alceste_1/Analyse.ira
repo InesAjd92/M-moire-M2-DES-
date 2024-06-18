@@ -1,0 +1,25 @@
+[alceste]
+mincl = 0
+encoding = cp1252
+classif_mode = 1
+mode.patate = 0
+nbforme_uce = 0
+expressions = 1
+pathout = C:\Users\UFR PHILLIA\Documents\Mémoire M2\iramuteq\corpus_reddit_iramuteq_corpus_1\corpus_reddit_iramuteq_alceste_1
+uuid = 2fc40676-9647-49a9-bf1b-a8db89bec503
+svdmethod = irlba
+nbactives = 362
+ira = C:\Users\UFR PHILLIA\Documents\Mémoire M2\iramuteq\corpus_reddit_iramuteq_corpus_1\corpus_reddit_iramuteq_alceste_1\Analyse.ira
+corpus = f806d7ba-a7f6-44a6-adeb-ef2697f0ff5d
+type = alceste
+clnb = 5
+minforme = 2
+lem = 1
+eff_min_forme = 3
+nbcl = 4
+max_actives = 3000
+name = corpus_reddit_iramuteq_alceste_1
+nbcl_p1 = 15
+time = 0h 0m 13s
+tailleuc1 = 12
+tailleuc2 = 14

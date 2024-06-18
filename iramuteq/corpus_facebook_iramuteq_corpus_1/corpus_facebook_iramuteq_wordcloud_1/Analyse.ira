@@ -1,0 +1,20 @@
+[wordcloud]
+graphout = C:\Users\UFR PHILLIA\Documents\Mémoire M2\iramuteq\corpus_facebook_iramuteq_corpus_1\corpus_facebook_iramuteq_wordcloud_1\nuage_1.png
+col_text = (0, 0, 0, 255)
+pathout = C:\Users\UFR PHILLIA\Documents\Mémoire M2\iramuteq\corpus_facebook_iramuteq_corpus_1\corpus_facebook_iramuteq_wordcloud_1
+name = corpus_facebook_iramuteq_wordcloud_1
+mincex = 0.5
+encoding = cp1252
+maxcex = 5.0
+maxword = 600
+lem = 1
+height = 800
+col_bg = (255, 255, 255, 255)
+width = 800
+svg = 0
+mode = 0
+time = 0h 0m 6s
+ira = C:\Users\UFR PHILLIA\Documents\Mémoire M2\iramuteq\corpus_facebook_iramuteq_corpus_1\corpus_facebook_iramuteq_wordcloud_1\Analyse.ira
+corpus = 97dabde1-ada7-47fa-9a92-fbc1a3fe64dd
+type = wordcloud
+uuid = 5a162931-7101-415a-8e67-fb30a5c3baa9

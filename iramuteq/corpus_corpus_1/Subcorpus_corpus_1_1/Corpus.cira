@@ -1,0 +1,16 @@
+[corpus]
+pathout = C:\Users\UFR PHILLIA\Documents\Mémoire M2\iramuteq\corpus_corpus_1\Subcorpus_corpus_1_1
+uuid = b59ee202-367f-4f78-9564-08ac04621a1e
+encoding = utf-8
+formesnb = 3912
+ucinb = 698
+hapax = 2142 - 54.75 % des formes - 10.20 % des occurrences
+ucenb = 861
+meta = [u'*platform_Facebook', u'*platform_Reddit', u'*platform_Twitter']
+originalpath = C:\Users\UFR PHILLIA\Documents\Mémoire M2\iramuteq\corpus.txt
+corpus_name = Subcorpus_corpus_1
+time = 0h 0m 0s
+date = Sat Jun 15 15:46:44 2024
+ira = C:\Users\UFR PHILLIA\Documents\Mémoire M2\iramuteq\corpus_corpus_1\Subcorpus_corpus_1_1\Corpus.cira
+type = corpus
+occurrences = 20993

@@ -1,0 +1,13 @@
+"","platform","event_phase","Négatif","Neutre","Positif"
+"1","Facebook","Après débunkage du fait",8,18,33
+"2","Facebook","Début du fait",0,1,0
+"3","Facebook","Fin du fait",5,3,3
+"4","Facebook","Pic du fait",15,1,9
+"5","Facebook","Unknown",1,0,0
+"6","Reddit","Après débunkage du fait",20,21,24
+"7","Reddit","Début du fait",49,50,60
+"8","Reddit","Pic du fait",25,21,31
+"9","Twitter","Après débunkage du fait",124,62,103
+"10","Twitter","Début du fait",1,1,0
+"11","Twitter","Fin du fait",1,0,2
+"12","Twitter","Pic du fait",4,0,2

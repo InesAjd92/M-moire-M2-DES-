@@ -1,0 +1,14 @@
+[spec]
+uuid = 0320a145-7fc6-4012-a86c-c1d543059579
+indice = hypergeo
+pathout = C:\Users\UFR PHILLIA\Documents\Mémoire M2\iramuteq\corpus_reddit_iramuteq_corpus_1\corpus_reddit_iramuteq_spec_1
+clnb = 3
+encoding = cp1252
+mineff = 10
+lem = 1
+time = 0h 0m 1s
+typeformes = 0
+ira = C:\Users\UFR PHILLIA\Documents\Mémoire M2\iramuteq\corpus_reddit_iramuteq_corpus_1\corpus_reddit_iramuteq_spec_1\Analyse.ira
+corpus = f806d7ba-a7f6-44a6-adeb-ef2697f0ff5d
+type = spec
+name = corpus_reddit_iramuteq_spec_1
